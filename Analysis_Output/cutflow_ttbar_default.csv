@@ -1,0 +1,10 @@
+Step,Raw Events,Weighted Yield,Absolute Eff (%),Relative Eff (%)
+Initial Raw Batch,500000,500000.0,100.00,100.00
+Jet Kinematic Selection,17300,17300.0,3.46,3.46
+B-jet Veto,9740,9740.0,1.95,56.30
+Large-R Jet >= 2,5633,5633.0,1.13,57.83
+Lepton Definition,5633,5633.0,1.13,100.00
+Post-OR Jet Requirements,5633,5633.0,1.13,100.00
+MET Rebuilding,5633,5633.0,1.13,100.00
+"dPhi(Jet, MET) < 2.0",5611,5611.0,1.12,99.61
+Tau Veto / Preselection Complete,5033,5033.0,1.01,89.70
