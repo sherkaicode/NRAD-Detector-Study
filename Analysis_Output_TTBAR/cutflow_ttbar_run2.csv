@@ -1,0 +1,6 @@
+Step,Raw Events,Weighted Yield,Absolute Eff (%),Relative Eff (%)
+Initial Raw Batch,500000,500000.0,100.00,100.00
+Overlap Removal,500000,500000.0,100.00,100.00
+Exactly 1 Lepton,67865,67865.0,13.57,13.57
+Region: Resolved,19823,19823.0,3.96,29.21
+Region: Boosted,1023,1023.0,0.20,5.16
